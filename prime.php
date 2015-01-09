@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 //Program to find prime numbers in between a range
 
-$num =23;
+$num =24;
 
 for( $j = 2; $j <= $num; $j++ )
 {
